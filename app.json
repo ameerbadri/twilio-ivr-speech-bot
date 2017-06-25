@@ -1,0 +1,21 @@
+{
+  "name": "Twilio IVR Speech Bot",
+  "description": "Next Generation IVR Using Twilio Speech Recognition and Chatbot",
+  "repository": "https://github.com/ameerbadri/twilio-ivr-speech-bot",
+  "logo": "http://presos.jamesward.com/practicing_continuous_delivery/assets/python.png",
+  "keywords": ["python", "twilio", "ivr"],
+  "env": {
+  "APIAPI_CLIENT_ACCESS_KEY": {
+    "description": "Your API.AI Bot Client Access Key",
+    "value": "your_apiai_client_access_key"
+  },
+  "AWS_ACCESS_KEY_ID": {
+    "description": "Your AWS Access Key ID",
+    "value": "your_aws_access_key_id"
+  },
+  "AWS_SECRET_KEY": {
+    "description": "Your AWS Access Secret Key",
+    "value": "your_aws_access_secret_key"
+  }
+ }
+}
