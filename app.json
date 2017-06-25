@@ -1,7 +1,0 @@
-{
-  "name": "Twilio IVR Speech Bot",
-  "description": "Next Generation IVR Using Twilio Speech Recognition and Chatbot",
-  "repository": "https://github.com/ameerbadri/twilio-ivr-speech-bot",
-  "logo": "http://presos.jamesward.com/practicing_continuous_delivery/assets/python.png",
-  "keywords": ["python", "twilio", "ivr"]
-}
