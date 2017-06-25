@@ -1,0 +1,71 @@
+{
+  "id": "1f582704-76a0-4aaa-a345-176dcf483b18",
+  "name": "facility",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "beauty salon",
+      "synonyms": [
+        "beauty salon",
+        "hair and nail salon"
+      ]
+    },
+    {
+      "value": "internet",
+      "synonyms": [
+        "internet",
+        "free internet",
+        "acceess to internet"
+      ]
+    },
+    {
+      "value": "parking",
+      "synonyms": [
+        "parking",
+        "free parking"
+      ]
+    },
+    {
+      "value": "pet friendly",
+      "synonyms": [
+        "pet friendly",
+        "dog friendly",
+        "cat friendly"
+      ]
+    },
+    {
+      "value": "pool",
+      "synonyms": [
+        "pool",
+        "swimming pool"
+      ]
+    },
+    {
+      "value": "spa",
+      "synonyms": [
+        "spa",
+        "spa salon"
+      ]
+    },
+    {
+      "value": "transfer",
+      "synonyms": [
+        "transfer",
+        "transfer service",
+        "transportation"
+      ]
+    },
+    {
+      "value": "wifi",
+      "synonyms": [
+        "wifi",
+        "wi-fi",
+        "wi fi",
+        "access to wifi",
+        "access to wi-fi"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}
