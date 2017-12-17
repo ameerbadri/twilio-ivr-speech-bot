@@ -1,4 +1,4 @@
-# twilio-asr-realtime-dashboard
+# twilio-ivr-speech-bot
 Next Generation IVR Using Twilio Speech Recognition and Chatbot
 
 For a detailed blog post and instructions on how to setup this demo please click here: 
