@@ -32,4 +32,4 @@ six==1.10.0
 twilio==6.3.0
 uritemplate==3.0.0
 urllib3>=1.24.2
-Werkzeug==0.11.15
+Werkzeug==0.15.3
