@@ -26,7 +26,7 @@ pysolr==3.6.0
 python-dateutil==2.6.0
 pytz==2017.2
 requests>=2.20.0
-rsa==3.4.2
+rsa==4.7.1
 s3transfer==0.1.10
 six==1.10.0
 twilio==6.3.0
